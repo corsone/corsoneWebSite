@@ -20,7 +20,7 @@ function Footer(){
     return (        
         <div className='footer'>
             <a href='https://github.com/corsone' target='_blank'><img src={gitHubLogo} className='logoFooter'/></a>
-            <a href='https://www.instagram.com/riccardo___corsini/' target='_blank'><img src={instagramLogo} style={{width: '2.8em'}} className='logoFooter'/></a>
+            <a href='https://www.instagram.com/riccardo___corsini/' target='_blank'><img src={instagramLogo} style={{width: '2.3em'}} className='logoFooter'/></a>
         </div>
     )
 }
