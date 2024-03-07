@@ -7,13 +7,13 @@ import './Panel.css'
 function Panel({title, text}){
 
     return (        
-        <div>
-            <div className='panel'>
+        <div className='panel'>
+            <div className='title'>
                 {/*<img src={me} className='photo'></img>*/}
-                <div className='text'>
-                    <h2>{title}</h2>
-                    {text}
-                </div>
+                <h2>{title}</h2>
+            </div>
+            <div className='text'>
+                {text}
             </div>
         </div>
         

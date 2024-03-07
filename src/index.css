@@ -15,11 +15,11 @@
 
 a {
   font-weight: 500;
-  color: rgb(29, 51, 71);
+  color: rgb(9, 33, 115);
   text-decoration: inherit;
 }
 a:hover {
-  color: rgb(29, 51, 71);
+  color: rgb(9, 33, 115);
 }
 
 body {
@@ -56,11 +56,11 @@ button:focus-visible {
 
 @media (prefers-color-scheme: light) {
   :root {
-    color: rgb(29, 51, 71);
+    color: rgb(9, 33, 115);
     background-color: #ffffff;
   }
   a:hover {
-    color: rgb(29, 51, 71);
+    color: rgb(9, 33, 115);
   }
   button {
     background-color: #f9f9f9;

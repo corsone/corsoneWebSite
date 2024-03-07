@@ -13,6 +13,7 @@ function Footer(){
             <div className='footer'>
                 <a href='https://github.com/corsone' target='_blank' rel="noopener noreferrer"><img src={gitHubLogoWhite} className='logoFooter' alt="github"/></a>
                 <a href='https://www.instagram.com/riccardo___corsini/' target='_blank' rel="noopener noreferrer"><img src={instagramLogoWhite} style={{width: '2.8em'}} className='logoFooter' alt="instagram"/></a>
+                <a href='mailto:riccardo.corsini02@gmail.com'><p>riccardo.corsini02@gmail.com</p></a>
             </div>
         )
     }
@@ -21,6 +22,7 @@ function Footer(){
         <div className='footer'>
             <a href='https://github.com/corsone' target='_blank' rel="noopener noreferrer"><img src={gitHubLogo} className='logoFooter' alt="github"/></a>
             <a href='https://www.instagram.com/riccardo___corsini/' target='_blank' rel="noopener noreferrer"><img src={instagramLogo} style={{width: '2.3em'}} className='logoFooter'alt="instagram"/></a>
+            <a href='mailto:riccardo.corsini02@gmail.com'><p style={{margin: 0, padding: '10px'}}>riccardo.corsini02@gmail.com</p></a>
         </div>
     )
 }

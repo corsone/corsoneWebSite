@@ -7,9 +7,6 @@
   .logoFooter {
     width: 2.5em;
     padding: 0.5em;
-  }
-  
-  .logoFooter:hover {
-    filter: drop-shadow(0 0 2em #646cffaa);
+    margin: 0;
   }
   

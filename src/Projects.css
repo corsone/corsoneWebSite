@@ -1,9 +1,21 @@
 .projects{
-    margin: 5em 7em 5em 7em;
+    margin: 3em 7em 5em 7em;
 }
 
-.cardContainer{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
+  /* Tablet */
+  @media (min-width: 768px) and (max-width: 1023px) {
+    .cardContainer{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+  }
+  
+  /* Desktop */
+  @media (min-width: 1024px) {
+    .cardContainer{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+  }

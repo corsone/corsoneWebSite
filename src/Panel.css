@@ -1,18 +1,37 @@
 .panel{
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   margin: 0;
-  padding: 3em 3em 3em 3em;
-  background-color: rgb(29, 51, 71);
+  padding: 4em 3em 4em 3em;
+  background-color: rgb(9, 33, 115);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.476);
 }
 
-.photo{
-  width: 300px;
-  filter: drop-shadow(0 0 2em rgba(255, 255, 255, 0.315));
+.text{
+  color: white;
+  flex-basis: 75%; 
 }
 
-.text{
-  flex: 1;
+.title{
   color: white;
+  flex-basis: 25%;
+  text-align: left;
 }
+
+
+@media (max-width: 767px) {
+  .panel{
+    align-items: center;
+    margin: 0;
+    padding: 4em 3em 4em 3em;
+    background-color: rgb(9, 33, 115);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.476);
+  }
+
+  .title, .text {
+    text-align: center;
+    flex-basis: 100%; /* Ogni testo occupa l'intera larghezza del contenitore */
+  }
+}
+
