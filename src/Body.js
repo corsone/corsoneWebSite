@@ -10,7 +10,7 @@ function Body(){
 
     return (
         <div className='body'>
-            <h1>Ciao, sono Riccardo!</h1>
+            <h2>Ciao, sono Riccardo!</h2>
             <Panel title={title} text={text}></Panel>
             <Projects></Projects>
         </div>

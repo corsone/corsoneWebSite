@@ -2,9 +2,10 @@
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     background-color: #ffffff;
-    padding: 20px;
-    margin: 20px;
+    padding: 2vw;
+    margin: 2vw;
     width: 300px;
+    min-width: 300px;
     box-sizing: border-box;
 }
 
