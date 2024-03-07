@@ -1,0 +1,9 @@
+.projects{
+    margin: 5em 7em 5em 7em;
+}
+
+.cardContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

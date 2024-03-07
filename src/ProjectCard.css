@@ -1,0 +1,18 @@
+.card{
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+    min-width: 300px;
+}
+
+.card:hover{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.501);
+}
+
+.cardLogo{
+    width: 3em;
+    padding: 0.5em;
+}

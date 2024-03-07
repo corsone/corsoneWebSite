@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import React, { useState } from 'react'
 
 import me from './assets/me2.jpg'
 import './Header.css'
@@ -12,7 +12,9 @@ function Header(){
 
     return (
         <div className='header'>
-            <img src={me} className={id} onClick={handleClickMagia}/>
+            <div className='nav'>
+                <img src={me} className={id} onClick={handleClickMagia} alt="logo"/>
+            </div>
         </div>
     )
 }

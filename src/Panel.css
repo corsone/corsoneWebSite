@@ -1,0 +1,18 @@
+.panel{
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: 3em 7em 3em 7em;
+  background-color: rgb(29, 51, 71);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.476);
+}
+
+.photo{
+  width: 300px;
+  filter: drop-shadow(0 0 2em rgba(255, 255, 255, 0.315));
+}
+
+.text{
+  flex: 1;
+  color: white;
+}
