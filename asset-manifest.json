@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/corsoneWebSite/static/css/main.02e06148.css",
-    "main.js": "/corsoneWebSite/static/js/main.537976c8.js",
-    "static/js/453.43d7602f.chunk.js": "/corsoneWebSite/static/js/453.43d7602f.chunk.js",
-    "static/media/me2.jpg": "/corsoneWebSite/static/media/me2.9fc30ae62bb8a355a16c.jpg",
-    "static/media/Instagram_Glyph_White.svg": "/corsoneWebSite/static/media/Instagram_Glyph_White.018ab7f813e35887d0baf29d349d615d.svg",
-    "static/media/Instagram_Glyph_Black.svg": "/corsoneWebSite/static/media/Instagram_Glyph_Black.6fcf3886751fb89cf481ae20e31fc7b2.svg",
-    "static/media/github-mark.svg": "/corsoneWebSite/static/media/github-mark.6fa18895f6e6c7772cab7049f7e05f59.svg",
-    "static/media/github-mark-white.svg": "/corsoneWebSite/static/media/github-mark-white.97ed8e7eef60d61ca469881dd6f34511.svg",
+    "main.css": "/corsoneWebSite/static/css/main.7b300a98.chunk.css",
+    "main.js": "/corsoneWebSite/static/js/main.698e7cdf.chunk.js",
+    "main.js.map": "/corsoneWebSite/static/js/main.698e7cdf.chunk.js.map",
+    "runtime~main.js": "/corsoneWebSite/static/js/runtime~main.d15e8538.js",
+    "runtime~main.js.map": "/corsoneWebSite/static/js/runtime~main.d15e8538.js.map",
+    "static/js/2.a221d85d.chunk.js": "/corsoneWebSite/static/js/2.a221d85d.chunk.js",
+    "static/js/2.a221d85d.chunk.js.map": "/corsoneWebSite/static/js/2.a221d85d.chunk.js.map",
+    "static/js/3.c60c86f6.chunk.js": "/corsoneWebSite/static/js/3.c60c86f6.chunk.js",
+    "static/js/3.c60c86f6.chunk.js.map": "/corsoneWebSite/static/js/3.c60c86f6.chunk.js.map",
     "index.html": "/corsoneWebSite/index.html",
-    "main.02e06148.css.map": "/corsoneWebSite/static/css/main.02e06148.css.map",
-    "main.537976c8.js.map": "/corsoneWebSite/static/js/main.537976c8.js.map",
-    "453.43d7602f.chunk.js.map": "/corsoneWebSite/static/js/453.43d7602f.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.02e06148.css",
-    "static/js/main.537976c8.js"
-  ]
+    "precache-manifest.2035b6eaec48b7d5d1eae824fad68589.js": "/corsoneWebSite/precache-manifest.2035b6eaec48b7d5d1eae824fad68589.js",
+    "service-worker.js": "/corsoneWebSite/service-worker.js",
+    "static/css/main.7b300a98.chunk.css.map": "/corsoneWebSite/static/css/main.7b300a98.chunk.css.map",
+    "static/media/Instagram_Glyph_Black.svg": "/corsoneWebSite/static/media/Instagram_Glyph_Black.81e0d8a0.svg",
+    "static/media/Instagram_Glyph_White.svg": "/corsoneWebSite/static/media/Instagram_Glyph_White.8d399960.svg",
+    "static/media/github-mark-white.svg": "/corsoneWebSite/static/media/github-mark-white.a0b00583.svg",
+    "static/media/github-mark.svg": "/corsoneWebSite/static/media/github-mark.8dcc6b52.svg",
+    "static/media/me.PNG": "/corsoneWebSite/static/media/me.0bd4acfd.PNG",
+    "static/media/me2.jpg": "/corsoneWebSite/static/media/me2.8c7f3dbd.jpg"
+  }
 }
