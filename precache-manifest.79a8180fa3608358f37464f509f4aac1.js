@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e94ad24fb318d2a6669cdae92893a3da",
+    "revision": "60b36b8afb31ae7e04c2a38b1b7cdf42",
     "url": "/corsoneWebSite/index.html"
   },
   {
-    "revision": "87b68cb120357092763f",
-    "url": "/corsoneWebSite/static/css/main.5e52e2d5.chunk.css"
+    "revision": "3d9114cdb96876ac1025",
+    "url": "/corsoneWebSite/static/css/main.ab76c53f.chunk.css"
   },
   {
     "revision": "48f1534304f7f150fc0f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/corsoneWebSite/static/js/3.c60c86f6.chunk.js"
   },
   {
-    "revision": "87b68cb120357092763f",
-    "url": "/corsoneWebSite/static/js/main.698e7cdf.chunk.js"
+    "revision": "3d9114cdb96876ac1025",
+    "url": "/corsoneWebSite/static/js/main.4a5bbc73.chunk.js"
   },
   {
     "revision": "820061675983d7be6092",
