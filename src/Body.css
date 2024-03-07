@@ -1,3 +1,7 @@
 .body {
     flex: 1;
   }
+
+  h1{
+    white-space: nowrap;
+  }
