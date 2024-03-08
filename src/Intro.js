@@ -22,7 +22,7 @@ function Intro(){
                 <button onClick={scrollToSection} className='desktopButton'>Chi sono?</button>
             </div>
             <button onClick={scrollToSection} className='phoneButton'>Chi sono?</button>
-            <img src={me} className='introImage'/>
+            <img src={me} alt='Riccardo' className='introImage'/>
         </div>
     )
     

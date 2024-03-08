@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <div className='in-sviluppo'>
-        ⚠️sito in sviluppo!⚠️
+        <span role='img' aria-label='attention'>⚠️</span>sito in sviluppo!<span role='img' aria-label='attention'>⚠️</span>
       </div>
       <Header> </Header>
       <Body></Body>

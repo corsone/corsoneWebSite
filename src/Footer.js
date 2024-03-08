@@ -2,8 +2,6 @@ import React from 'react';
 
 import gitHubLogo from './assets/github-mark.svg'
 import instagramLogo from './assets/Instagram_Glyph_Black.svg'
-import gitHubLogoWhite from './assets/github-mark-white.svg'
-import instagramLogoWhite from './assets/Instagram_Glyph_White.svg'
 
 import './Footer.css'
 

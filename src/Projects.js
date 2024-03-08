@@ -33,7 +33,7 @@ function Projects(){
             <h2 style={{textAlign: 'center'}}>I miei progetti</h2>
             <div className='cardContainer'>
                 {projects.map((project) => {
-                    return <ProjectCard image={project.image} title={project.title} description={project.description}></ProjectCard>
+                    return <ProjectCard key={project.title} image={project.image} title={project.title} description={project.description}></ProjectCard>
                 })}
             </div>
         </div>
