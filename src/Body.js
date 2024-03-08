@@ -1,6 +1,7 @@
 import React from 'react';
 import Panel from './Panel'
 import Projects from './Projects';
+import Intro from './Intro';
 
 import './Body.css'
 
@@ -10,6 +11,7 @@ function Body(){
     
     return (
         <div className='body'>
+            <Intro></Intro>
             <Panel title={title} text={text}></Panel>
             <Projects></Projects>
         </div>

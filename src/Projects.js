@@ -27,7 +27,7 @@ function Projects(){
 
     return (
         <div className='projects'>
-            <h2>I miei progetti</h2>
+            <h2 style={{textAlign: 'center'}}>I miei progetti</h2>
             <div className='cardContainer'>
                 {projects.map((project) => {
                     return <ProjectCard image={project.image} title={project.title} description={project.description}></ProjectCard>
