@@ -52,8 +52,14 @@
     width: 100%;
   }
 
-  .introText h1, h2{
+  .introText h1{
     text-align: center;
+    font-size: 2rem;
+  }
+
+  .introText h2{
+    text-align: center;
+    font-size: 1.2rem;
   }
 
   .desktopButton{
