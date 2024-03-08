@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/corsoneWebSite/static/css/main.dfa6b8bc.chunk.css",
-    "main.js": "/corsoneWebSite/static/js/main.cda88938.chunk.js",
-    "main.js.map": "/corsoneWebSite/static/js/main.cda88938.chunk.js.map",
+    "main.js": "/corsoneWebSite/static/js/main.8f740786.chunk.js",
+    "main.js.map": "/corsoneWebSite/static/js/main.8f740786.chunk.js.map",
     "runtime~main.js": "/corsoneWebSite/static/js/runtime~main.1fd0f713.js",
     "runtime~main.js.map": "/corsoneWebSite/static/js/runtime~main.1fd0f713.js.map",
     "static/js/2.e60e0dc0.chunk.js": "/corsoneWebSite/static/js/2.e60e0dc0.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.1af95c37.chunk.js": "/corsoneWebSite/static/js/3.1af95c37.chunk.js",
     "static/js/3.1af95c37.chunk.js.map": "/corsoneWebSite/static/js/3.1af95c37.chunk.js.map",
     "index.html": "/corsoneWebSite/index.html",
-    "precache-manifest.cc83b28239cf1fb3ecc2cea0bb13f601.js": "/corsoneWebSite/precache-manifest.cc83b28239cf1fb3ecc2cea0bb13f601.js",
+    "precache-manifest.2371ad83927b793758bfbb30391f4dd4.js": "/corsoneWebSite/precache-manifest.2371ad83927b793758bfbb30391f4dd4.js",
     "service-worker.js": "/corsoneWebSite/service-worker.js",
     "static/css/main.dfa6b8bc.chunk.css.map": "/corsoneWebSite/static/css/main.dfa6b8bc.chunk.css.map",
     "static/media/Instagram_Glyph_Black.svg": "/corsoneWebSite/static/media/Instagram_Glyph_Black.81e0d8a0.svg",

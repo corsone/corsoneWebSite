@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/corsoneWebSite/precache-manifest.cc83b28239cf1fb3ecc2cea0bb13f601.js"
+  "/corsoneWebSite/precache-manifest.2371ad83927b793758bfbb30391f4dd4.js"
 );
 
 self.addEventListener('message', (event) => {
