@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a911036eaececa79663ad69def3583f",
+    "revision": "e214656cf7257eaf5e756d04f92b7576",
     "url": "/corsoneWebSite/index.html"
   },
   {
-    "revision": "23b2a1cb1a8854c2a696",
-    "url": "/corsoneWebSite/static/css/main.dfa6b8bc.chunk.css"
+    "revision": "eaa99683d8d5b551b452",
+    "url": "/corsoneWebSite/static/css/main.addcb7d6.chunk.css"
   },
   {
-    "revision": "448db7497c0da5d68f54",
-    "url": "/corsoneWebSite/static/js/2.e60e0dc0.chunk.js"
+    "revision": "61590ff6fc5c06d52e2d",
+    "url": "/corsoneWebSite/static/js/2.9ad05164.chunk.js"
   },
   {
-    "revision": "db4976e2c3fc371be79e",
-    "url": "/corsoneWebSite/static/js/3.1af95c37.chunk.js"
+    "revision": "b14cf38e36b679bf3c7c",
+    "url": "/corsoneWebSite/static/js/3.bb0829b5.chunk.js"
   },
   {
-    "revision": "23b2a1cb1a8854c2a696",
-    "url": "/corsoneWebSite/static/js/main.8f740786.chunk.js"
+    "revision": "eaa99683d8d5b551b452",
+    "url": "/corsoneWebSite/static/js/main.413a4157.chunk.js"
   },
   {
-    "revision": "f95468ce45987046ef5b",
-    "url": "/corsoneWebSite/static/js/runtime~main.1fd0f713.js"
+    "revision": "5a20e43a427b0b7b5790",
+    "url": "/corsoneWebSite/static/js/runtime~main.febc56f7.js"
   },
   {
     "revision": "81e0d8a058b25d733684a982a04543a0",
