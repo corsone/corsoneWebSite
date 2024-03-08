@@ -10,7 +10,7 @@ function Panel({title, text}){
         <div className='panel' id="chi sono">
             <div className='title'>
                 {/*<img src={me} className='photo'></img>*/}
-                <h2>{title}</h2>
+                <h2 style={{textAlign: 'center'}}>{title}</h2>
             </div>
             <div className='text'>
                 {text}

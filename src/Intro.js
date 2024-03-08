@@ -7,7 +7,7 @@ function Intro(){
     function scrollToSection() {
         var section = document.getElementById("chi sono");
         window.scrollTo({
-          top: section.offsetTop - 300,
+          top: section.offsetTop - 150,
           behavior: "smooth" // Opzione per rendere lo scrolling fluido
         });
       }
