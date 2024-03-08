@@ -1,7 +1,13 @@
 .footer{
+    background-color: white;
     flex-shrink: 0;
     width: 100%;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.447);
+  }
+
+  .footer p{
+    padding: 0;
+    margin: 0;
   }
 
   .logoFooter {
@@ -11,7 +17,11 @@
   }
   
   @media (prefers-color-scheme: dark) {
-    p{
+    .footer{
+      background-color: #1a1a1a;
+    }
+
+    .footer p{
       color: white;
     }
 

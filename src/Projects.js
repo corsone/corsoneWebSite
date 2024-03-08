@@ -30,7 +30,7 @@ function Projects(){
 
     return (
         <div className='projects'>
-            <h2 style={{textAlign: 'center'}}>I miei progetti</h2>
+            <h2 style={{textAlign: 'center', padding: '2vh'}}>I miei progetti</h2>
             <div className='cardContainer'>
                 {projects.map((project) => {
                     return <ProjectCard key={project.title} image={project.image} title={project.title} description={project.description}></ProjectCard>
