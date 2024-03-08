@@ -10,3 +10,12 @@
     margin: 0;
   }
   
+  @media (prefers-color-scheme: dark) {
+    p{
+      color: white;
+    }
+
+    .logoFooter{
+      filter: invert(100%);
+    }
+  }

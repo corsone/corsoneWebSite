@@ -9,7 +9,7 @@ import './App.css'
 function App() {
   return (
     <>
-      <div style={{backgroundColor: 'rgb(9, 33, 115)', color: ' white', padding: '0.5em'}}>
+      <div className='in-sviluppo'>
         ⚠️sito in sviluppo!⚠️
       </div>
       <Header> </Header>

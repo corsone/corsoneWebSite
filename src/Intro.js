@@ -21,6 +21,7 @@ function Intro(){
                 <h2>uno studente presso l'università di verona</h2>
                 <button onClick={scrollToSection} className='desktopButton'>Chi sono?</button>
             </div>
+            <button onClick={scrollToSection} className='phoneButton'>Chi sono?</button>
             <img src={me} className='introImage'/>
         </div>
     )

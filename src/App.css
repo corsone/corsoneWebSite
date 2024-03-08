@@ -7,6 +7,13 @@
   text-align: center;
 }
 
-.card {
-  flex: 1;
+.in-sviluppo{
+  color: white;
+  padding: 0.5em;
+}
+
+@media (prefers-color-scheme: light) {
+  .in-sviluppo{
+    background-color: rgb(9, 33, 115);
+  }
 }

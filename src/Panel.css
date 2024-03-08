@@ -19,7 +19,6 @@
   text-align: left;
 }
 
-
 @media (max-width: 767px) {
   .panel{
     align-items: center;
@@ -32,6 +31,20 @@
   .title, .text {
     text-align: center;
     flex-basis: 100%; /* Ogni testo occupa l'intera larghezza del contenitore */
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .panel{
+    background-color: white;
+  }
+
+  .panel p{
+    color: #242424;
+  }
+
+  .panel h2{
+    color: #242424;
   }
 }
 

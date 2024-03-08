@@ -1,4 +1,5 @@
 .card{
+    flex: 1;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     background-color: #ffffff;
@@ -6,6 +7,10 @@
     margin: 2%;
     min-width: 260px;
     box-sizing: border-box;
+}
+
+.card p, h3{
+    color: #242424;
 }
 
 .card:hover{
@@ -16,3 +21,21 @@
     width: 3em;
     padding: 0.5em;
 }
+
+.cardLogoBlack{
+    display: none;
+}
+  
+@media (prefers-color-scheme: dark) {
+    .cardLogo{
+        display: none;
+    }
+
+    .cardLogoBlack{
+        display:inline;
+        width: 3em;
+        padding: 0.5em;
+    }
+  }
+  
+  
